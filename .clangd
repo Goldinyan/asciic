@@ -1,0 +1,5 @@
+CompileFlags:
+  Add: [
+    "-isystem", "/nix/store/sr08dm9x0fsa1mrzjrlb3csdcmilsraz-glibc-2.42-100-dev/include",
+    "-isystem", "/nix/store/mhy634114a25wmcc6l64kzwi2cgyqsc3-sqlite-3.51.2-dev/include"
+  ]
